@@ -1,6 +1,6 @@
 # Paso 1: Importar librerías
 from sklearn.utils.fixes import np_base_version
-print("Importar librerías...")
+print("Importar librerías v2...")
 
 
 import numpy as np
